@@ -46,16 +46,16 @@ social:
     icon_pack: fas
     link: 'mailto:zhengtl@umich.edu'
   - icon: x
-    icon_pack: fab
+    icon_pack: fas
     link: https://twitter.com/UM_IML
   - icon: google-scholar
-    icon_pack: ai
+    icon_pack: fas
     link: https://scholar.google.com/citations?user=wdufCFMAAAAJ
   - icon: linkedin
-  - icon_pack: fab
+  - icon_pack: fas
   - link: https://www.linkedin.com/in/zhengliu6/
   - icon: orcid
-  - icon_pack: fab
+  - icon_pack: fas
   - link: https://orcid.org/0000-0003-4869-8893
 # Uncomment below for Github link
 #- icon: github
