@@ -12,7 +12,7 @@ role: 'Assistant Professor'
 status:
   icon: ☕️
 
-Organizations/Affiliations
+# Organizations/Affiliations
 organizations:
 - name: University of Michigan-Dearborn
  url: "https://umdearborn.edu/people-um-dearborn/zheng-liu"
