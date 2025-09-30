@@ -14,8 +14,8 @@ status:
 
 # Organizations/Affiliations
 organizations:
-- name: University of Michigan-Dearborn
- url: "https://umdearborn.edu/people-um-dearborn/zheng-liu"
+  - name: University of Michigan-Dearborn
+    url: "https://umdearborn.edu/people-um-dearborn/zheng-liu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: AI for manufacturing, battery, data center
